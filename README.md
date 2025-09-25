@@ -43,9 +43,7 @@ Antes de desplegar, asegúrate de contar con:
 
 Puedes desplegar directamente a tu suscripción con el botón azul:
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2F<YOUR-ORG>%2F<YOUR-REPO>%2Fmain%2Fmain.json)
-
-> ⚠️ Reemplaza `<YOUR-ORG>` y `<YOUR-REPO>` con tu organización y repo de GitHub.
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FDabucsa%2FMDFC%2Fmain%2Fdeploysentinel.json)
 
 ---
 
